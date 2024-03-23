@@ -26,21 +26,20 @@ Below is a brief video that goes over the program and dataset.
  * There are 4 latops that match these criteria.
 
 3. What are the 5 most expensive (or cheap) laptops?
- * Again, depends on if you want to see the cheapest or the most expensive laptops.
- 
- * Cheapest:
-  * iBall Exeleance CompBook (9800)
-  * Ultimus Pro (11990)
-  * Primebook (12990)
-  * Jio JioBook (14701)
-  * Ultimus Lite (14990)
+ * This depends on if you want to see the cheapest or the most expensive laptops.
+* Cheapest:
+   * iBall Exeleance CompBook (9800)
+   * Ultimus Pro (11990)
+   * Primebook (12990)
+   * Jio JioBook (14701)
+   * Ultimus Lite (14990)
 
 * Most Expensive:
- * Dell Alienware X16 (454490)
- * Dell Alienware M18 R1 2023 (450990)
- * MSI CreatorPro Z16 HX (449990)
- * Apple MacBook Pro 16 2023 (399900)
- * Dell Alienware X16 R1 (388490)
+  * Dell Alienware X16 (454490)
+  * Dell Alienware M18 R1 2023 (450990)
+  * MSI CreatorPro Z16 HX (449990)
+  * Apple MacBook Pro 16 2023 (399900)
+  * Dell Alienware X16 R1 (388490)
 
 
 # Development Environment
@@ -51,13 +50,13 @@ I used the ```Python``` prgoramming language with the ```Pandas``` library for d
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+Below are the 2 main sites I used for help in this project.
 * [towardsdatascience.com](https://towardsdatascience.com/getting-started-to-data-analysis-with-python-pandas-with-titanic-dataset-a195ab043c77)
 * [pandas](https://pandas.pydata.org/docs/user_guide/10min.html#min)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+Below is a list of things that I think I could do better or change.
 * Let the user choose what processor brands to use
 * Let the user decide what price to use as well
 * Fix the price column, so that it is formatted better (last 2 digits are the cents value, but it might not appear that way)
