@@ -6,12 +6,12 @@ df = pd.read_csv("./dataset/laptops.csv")
 print(df["processor_brand"].value_counts())
 print()
 
-# how to see data for laptops of a certain processor brand and price?
+# what are the results for showing laptoops with a certain processor brand and below a certain price?
 df_cpu = df["processor_brand"] == "amd"
 df_price = df["Price"] < 22000
 print(df[df_cpu & df_price])
 print()
 
-# what if we want to see the a descending or ascending list of prices? (5 laptops)
-df_sorted_price = df.sort_values("Price", ascending = True).head()
+# what are the 5 most expensive (or cheap) laptops?
+df_sorted_price = df.sort_values("Price", ascending = False).head()
 print(df_sorted_price)
