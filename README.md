@@ -27,12 +27,14 @@ Below is a brief video that goes over the program and dataset.
 
 3. What are the 5 most expensive (or cheap) laptops?
  * Again, depends on if you want to see the cheapest or the most expensive laptops.
+ 
  * Cheapest:
   * iBall Exeleance CompBook (9800)
   * Ultimus Pro (11990)
   * Primebook (12990)
   * Jio JioBook (14701)
   * Ultimus Lite (14990)
+
 * Most Expensive:
  * Dell Alienware X16 (454490)
  * Dell Alienware M18 R1 2023 (450990)
