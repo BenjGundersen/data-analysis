@@ -4,13 +4,13 @@ For this project, I watned to try my hand at some basic data analysis. I wanted 
 some basic data analysis skills, that I can hopefully build, upon, if needed, in the future. 
 
 I went to ```kaggle.com``` and found a dataset about laptops that looked interesting enough. It has a ton of columns that cover different information
-about the laptops, and it also has nearly 1000 entries, so the data is not super small. 
+about the laptops, and it also has nearly 1000 entries, so the data is not super small. The last 2 digits of any price represent the cent values, but there is no commas to show that, so prices may appear larger than they actually are. 
 This is where I downloaded it from:
 [Brand Laptops Dataset](https://www.kaggle.com/datasets/bhavikjikadara/brand-laptops-dataset?resource=download)
 
 Below is a brief video that goes over the program and dataset.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/Ii2GjiuMhzs)
 
 # Data Analysis Results
 
